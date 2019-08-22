@@ -1,3 +1,6 @@
 what
 how
-what are you?
+<<<<<<< HEAD
+=======
+how are you?
+>>>>>>> feature1
